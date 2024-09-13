@@ -101,27 +101,6 @@ pip install pandas matplotlib wordcloud scikit-learn
 
 ---
 
-## Running the Project
-
-### Steps to Run
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your_username/NIPS-Paper-Analysis.git
-   cd NIPS-Paper-Analysis
-   ```
-
-2. **Prepare the Dataset:**
-   Ensure that the `datasets/papers.csv` file is in the correct location.
-
-3. **Run the Jupyter Notebook:**
-   Open and run the Jupyter notebook `NIPS_Paper_Analysis.ipynb` to execute the analysis.
-
-   ```bash
-   jupyter notebook NIPS_Paper_Analysis.ipynb
-   ```
-
----
-
 ## Results
 
 ### 1. Publication Trends
