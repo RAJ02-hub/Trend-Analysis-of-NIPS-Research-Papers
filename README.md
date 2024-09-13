@@ -150,8 +150,3 @@ These topics provide insights into the main research themes covered by NIPS pape
 
 ---
 
-## Author
-
-- **[Raj Bhalani](https://github.com/RAJ02-hub)**
-
-
